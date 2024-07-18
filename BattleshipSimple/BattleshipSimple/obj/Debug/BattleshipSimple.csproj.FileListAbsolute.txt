@@ -1,0 +1,7 @@
+C:\Users\Maddison\Desktop\Baker College\C#\BattleshipSimple\BattleshipSimple\bin\Debug\BattleshipSimple.exe.config
+C:\Users\Maddison\Desktop\Baker College\C#\BattleshipSimple\BattleshipSimple\bin\Debug\BattleshipSimple.exe
+C:\Users\Maddison\Desktop\Baker College\C#\BattleshipSimple\BattleshipSimple\bin\Debug\BattleshipSimple.pdb
+C:\Users\Maddison\Desktop\Baker College\C#\BattleshipSimple\BattleshipSimple\obj\Debug\BattleshipSimple.csproj.AssemblyReference.cache
+C:\Users\Maddison\Desktop\Baker College\C#\BattleshipSimple\BattleshipSimple\obj\Debug\BattleshipSimple.csproj.CoreCompileInputs.cache
+C:\Users\Maddison\Desktop\Baker College\C#\BattleshipSimple\BattleshipSimple\obj\Debug\BattleshipSimple.exe
+C:\Users\Maddison\Desktop\Baker College\C#\BattleshipSimple\BattleshipSimple\obj\Debug\BattleshipSimple.pdb

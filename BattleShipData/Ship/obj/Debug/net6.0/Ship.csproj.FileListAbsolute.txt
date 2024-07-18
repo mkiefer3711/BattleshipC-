@@ -1,0 +1,14 @@
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\bin\Debug\net6.0\Ship.exe
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\bin\Debug\net6.0\Ship.deps.json
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\bin\Debug\net6.0\Ship.runtimeconfig.json
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\bin\Debug\net6.0\Ship.dll
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\bin\Debug\net6.0\Ship.pdb
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\Ship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\Ship.AssemblyInfoInputs.cache
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\Ship.AssemblyInfo.cs
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\Ship.csproj.CoreCompileInputs.cache
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\Ship.dll
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\refint\Ship.dll
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\Ship.pdb
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\Ship.genruntimeconfig.cache
+C:\Users\Maddison\Desktop\Baker College\C#\BattleShipData\Ship\obj\Debug\net6.0\ref\Ship.dll
