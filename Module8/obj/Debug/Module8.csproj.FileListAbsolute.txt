@@ -1,0 +1,7 @@
+C:\Users\Maddison\Desktop\Baker College\C#\Module8\bin\Debug\Module8.exe.config
+C:\Users\Maddison\Desktop\Baker College\C#\Module8\bin\Debug\Module8.exe
+C:\Users\Maddison\Desktop\Baker College\C#\Module8\bin\Debug\Module8.pdb
+C:\Users\Maddison\Desktop\Baker College\C#\Module8\obj\Debug\Module8.csproj.AssemblyReference.cache
+C:\Users\Maddison\Desktop\Baker College\C#\Module8\obj\Debug\Module8.csproj.CoreCompileInputs.cache
+C:\Users\Maddison\Desktop\Baker College\C#\Module8\obj\Debug\Module8.exe
+C:\Users\Maddison\Desktop\Baker College\C#\Module8\obj\Debug\Module8.pdb
